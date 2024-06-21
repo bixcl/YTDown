@@ -10,9 +10,6 @@ This is a free youtube download application make with python and tkinter.
 ---
 # YTDown
 
-[![codecov](https://codecov.io/gh/bixcl/YTDown/branch/main/graph/badge.svg?token=YTDown_token_here)](https://codecov.io/gh/bixcl/YTDown)
-[![CI](https://github.com/bixcl/YTDown/actions/workflows/main.yml/badge.svg)](https://github.com/bixcl/YTDown/actions/workflows/main.yml)
-
 Awesome ytdown created by bixcl
 
 ## Install requirement
